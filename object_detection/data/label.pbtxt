@@ -1,0 +1,800 @@
+item {
+  name: "Gimbab"
+  id: 1
+}
+item {
+  name: "jeyuk-deopbab"
+  id: 2
+}
+item {
+  name: "chobab"
+  id: 3
+}
+item {
+  name: "dolsot-bibimbab"
+  id: 4
+}
+item {
+  name: "yubu-chobab"
+  id: 5
+}
+item {
+  name: "hoe-deopbab"
+  id: 6
+}
+item {
+  name: "ssal-bab"
+  id: 7
+}
+item {
+  name: "kong-bab"
+  id: 8
+}
+item {
+  name: "jabgok-bab"
+  id: 9
+}
+item {
+  name: "saeu-bokkeumbab"
+  id: 10
+}
+item {
+  name: "gimchi-bokkeumbab"
+  id: 11
+}
+item {
+  name: "kalelaiseu"
+  id: 12
+}
+item {
+  name: "jumeok-bab"
+  id: 13
+}
+item {
+  name: "bulgogi-deopbab"
+  id: 14
+}
+item {
+  name: "jabchae-deopbab"
+  id: 15
+}
+item {
+  name: "yukhoe-bibimbab"
+  id: 16
+}
+item {
+  name: "sundae-gukbab"
+  id: 17
+}
+item {
+  name: "nasto"
+  id: 18
+}
+item {
+  name: "mul-naengmyeon"
+  id: 19
+}
+item {
+  name: "lamyeon"
+  id: 20
+}
+item {
+  name: "sujebi"
+  id: 21
+}
+item {
+  name: "jabchae"
+  id: 22
+}
+item {
+  name: "kal-guksu"
+  id: 23
+}
+item {
+  name: "kong-guksu"
+  id: 24
+}
+item {
+  name: "ssal-guksu"
+  id: 25
+}
+item {
+  name: "paseuta(tomato)"
+  id: 26
+}
+item {
+  name: "udong"
+  id: 27
+}
+item {
+  name: "jjajangmyeon"
+  id: 28
+}
+item {
+  name: "jjamppong"
+  id: 29
+}
+item {
+  name: "bibim(hoe)-naengmyeon"
+  id: 30
+}
+item {
+  name: "dimseom"
+  id: 31
+}
+item {
+  name: "mul-mandu"
+  id: 32
+}
+item {
+  name: "gunmandu"
+  id: 33
+}
+item {
+  name: "tteok-guk(mandu-guk)"
+  id: 34
+}
+item {
+  name: "miyeok-guk"
+  id: 35
+}
+item {
+  name: "bukeo-guk"
+  id: 36
+}
+item {
+  name: "yukgaejang"
+  id: 37
+}
+item {
+  name: "ppyeodagwi-haejang-guk"
+  id: 38
+}
+item {
+  name: "kongnamul-haejang-guk"
+  id: 39
+}
+item {
+  name: "doenjang-guk"
+  id: 40
+}
+item {
+  name: "galbi-tang"
+  id: 41
+}
+item {
+  name: "gamja-tang"
+  id: 42
+}
+item {
+  name: "dak-bokkeum-tang"
+  id: 43
+}
+item {
+  name: "maeun-tang"
+  id: 44
+}
+item {
+  name: "samgye-tang"
+  id: 45
+}
+item {
+  name: "honghab-tang"
+  id: 46
+}
+item {
+  name: "eomuk-tang"
+  id: 47
+}
+item {
+  name: "haemul-tang"
+  id: 48
+}
+item {
+  name: "gimchi-jjigae"
+  id: 49
+}
+item {
+  name: "dongtae-jjigae"
+  id: 50
+}
+item {
+  name: "doenjang-jjigae"
+  id: 51
+}
+item {
+  name: "budae-jjigae"
+  id: 52
+}
+item {
+  name: "sundubu-jjigae"
+  id: 53
+}
+item {
+  name: "cheongguk-jang-jjigae"
+  id: 54
+}
+item {
+  name: "beoseot-(bulgogi)-jeongol"
+  id: 55
+}
+item {
+  name: "gobchang-jeongol"
+  id: 56
+}
+item {
+  name: "mandu-jeongol"
+  id: 57
+}
+item {
+  name: "biji-jjigae"
+  id: 58
+}
+item {
+  name: "kkochi"
+  id: 59
+}
+item {
+  name: "dak-galbi"
+  id: 60
+}
+item {
+  name: "tteok-galbi"
+  id: 61
+}
+item {
+  name: "bulgogi"
+  id: 62
+}
+item {
+  name: "samgyeobsal"
+  id: 63
+}
+item {
+  name: "yeoneo-seuteikeu"
+  id: 64
+}
+item {
+  name: "jangeo-gui"
+  id: 65
+}
+item {
+  name: "godeungeo-gui"
+  id: 66
+}
+item {
+  name: "galchi-gui"
+  id: 67
+}
+item {
+  name: "gobchang-gui"
+  id: 68
+}
+item {
+  name: "dwaeji-galbi"
+  id: 69
+}
+item {
+  name: "saeu-gui"
+  id: 70
+}
+item {
+  name: "oli-gui"
+  id: 71
+}
+item {
+  name: "jeonbok-gui"
+  id: 72
+}
+item {
+  name: "ansim-seuteikeu"
+  id: 73
+}
+item {
+  name: "makchang-gui"
+  id: 74
+}
+item {
+  name: "cheese-deung-galbi"
+  id: 75
+}
+item {
+  name: "nakji-horong"
+  id: 76
+}
+item {
+  name: "jang-jorim"
+  id: 77
+}
+item {
+  name: "gamja-jorim"
+  id: 78
+}
+item {
+  name: "godeungeo-jorim"
+  id: 79
+}
+item {
+  name: "galchi-jorim"
+  id: 80
+}
+item {
+  name: "kong-jaban"
+  id: 81
+}
+item {
+  name: "ueong-jorim"
+  id: 82
+}
+item {
+  name: "yeongeunjorim"
+  id: 83
+}
+item {
+  name: "dubujorim"
+  id: 84
+}
+item {
+  name: "gyeranjangjorim"
+  id: 85
+}
+item {
+  name: "tteog-bokki"
+  id: 86
+}
+item {
+  name: "jeyuk-bokkeum(dwaeji-duruchigi)"
+  id: 87
+}
+item {
+  name: "myeolchi-bokkeum"
+  id: 88
+}
+item {
+  name: "gaji-bokkeum"
+  id: 89
+}
+item {
+  name: "sausage-yachae-bokkeum"
+  id: 90
+}
+item {
+  name: "gamja(chae)-bokkeum"
+  id: 91
+}
+item {
+  name: "nakji(jjukkumi)-bokkeum"
+  id: 92
+}
+item {
+  name: "dakbal"
+  id: 93
+}
+item {
+  name: "geonsaeubokkeum"
+  id: 94
+}
+item {
+  name: "konchijeu"
+  id: 95
+}
+item {
+  name: "gambaseu"
+  id: 96
+}
+item {
+  name: "chikin"
+  id: 97
+}
+item {
+  name: "dongaseu"
+  id: 98
+}
+item {
+  name: "tangsuyuk"
+  id: 99
+}
+item {
+  name: "saeu-twigim"
+  id: 100
+}
+item {
+  name: "goguma-mat-tang"
+  id: 101
+}
+item {
+  name: "gamja-twigim"
+  id: 102
+}
+item {
+  name: "hotdog"
+  id: 103
+}
+item {
+  name: "bindae-tteog(nokdu)"
+  id: 104
+}
+item {
+  name: "okkonomiyakki"
+  id: 105
+}
+item {
+  name: "takoyakki"
+  id: 106
+}
+item {
+  name: "pajeon"
+  id: 107
+}
+item {
+  name: "gyeran-mari"
+  id: 108
+}
+item {
+  name: "(ae)hobak-jeon"
+  id: 109
+}
+item {
+  name: "dubu-buchim"
+  id: 110
+}
+item {
+  name: "gimchi-jeon"
+  id: 111
+}
+item {
+  name: "gamja-jeon"
+  id: 112
+}
+item {
+  name: "galbi-jjim"
+  id: 113
+}
+item {
+  name: "gyeran-jjim"
+  id: 114
+}
+item {
+  name: "sundae"
+  id: 115
+}
+item {
+  name: "jokbal"
+  id: 116
+}
+item {
+  name: "agu(gwi)-jjim"
+  id: 117
+}
+item {
+  name: "jjim-dak"
+  id: 118
+}
+item {
+  name: "jogaejjim"
+  id: 119
+}
+item {
+  name: "kkakdugi"
+  id: 120
+}
+item {
+  name: "baechu-gimchi"
+  id: 121
+}
+item {
+  name: "pa-gimchi"
+  id: 122
+}
+item {
+  name: "oi-so-bagi"
+  id: 123
+}
+item {
+  name: "buchu-gimchi"
+  id: 124
+}
+item {
+  name: "dongchimi"
+  id: 125
+}
+item {
+  name: "altari-gimchi"
+  id: 126
+}
+item {
+  name: "gat-gimchi"
+  id: 127
+}
+item {
+  name: "ganjang-gejang"
+  id: 128
+}
+item {
+  name: "saeu-jeot"
+  id: 129
+}
+item {
+  name: "ganjang-saeu"
+  id: 130
+}
+item {
+  name: "yangnyeomgejang"
+  id: 131
+}
+item {
+  name: "saelleodeu"
+  id: 132
+}
+item {
+  name: "soboroppang"
+  id: 133
+}
+item {
+  name: "kkwabaegi"
+  id: 134
+}
+item {
+  name: "meopin"
+  id: 135
+}
+item {
+  name: "patjuk"
+  id: 136
+}
+item {
+  name: "jeonbok-juk"
+  id: 137
+}
+item {
+  name: "hobak-juk"
+  id: 138
+}
+item {
+  name: "yachae-juk"
+  id: 139
+}
+item {
+  name: "doneotcheu"
+  id: 140
+}
+item {
+  name: "jjinppang"
+  id: 141
+}
+item {
+  name: "bageteu"
+  id: 142
+}
+item {
+  name: "keurowasang"
+  id: 143
+}
+item {
+  name: "sosijippang"
+  id: 144
+}
+item {
+  name: "bingsu"
+  id: 145
+}
+item {
+  name: "tiramisu"
+  id: 146
+}
+item {
+  name: "yangpa-jangajji"
+  id: 147
+}
+item {
+  name: "maneul-jangajji"
+  id: 148
+}
+item {
+  name: "mumallaeng-i"
+  id: 149
+}
+item {
+  name: "yeolmugimchi"
+  id: 150
+}
+item {
+  name: "kongnamulmuchim"
+  id: 151
+}
+item {
+  name: "omeulaiseu"
+  id: 152
+}
+item {
+  name: "gomtang(seolleongtang)"
+  id: 153
+}
+item {
+  name: "Gim"
+  id: 154
+}
+item {
+  name: "ojingeo-bokkeum"
+  id: 155
+}
+item {
+  name: "ojingeo-jeotgal"
+  id: 156
+}
+item {
+  name: "madeullen"
+  id: 157
+}
+item {
+  name: "rolkeikeu"
+  id: 158
+}
+item {
+  name: "danmuji"
+  id: 159
+}
+item {
+  name: "kkaesipjangajji"
+  id: 160
+}
+item {
+  name: "gangjeong"
+  id: 161
+}
+item {
+  name: "wapeul"
+  id: 162
+}
+item {
+  name: "hotteok"
+  id: 163
+}
+item {
+  name: "saendeuwichi"
+  id: 164
+}
+item {
+  name: "bungeoppang"
+  id: 165
+}
+item {
+  name: "hodugwaja"
+  id: 166
+}
+item {
+  name: "songpyeon"
+  id: 167
+}
+item {
+  name: "yugwa"
+  id: 168
+}
+item {
+  name: "kkultteog"
+  id: 169
+}
+item {
+  name: "jeolpyeon"
+  id: 170
+}
+item {
+  name: "chapssaltteok"
+  id: 171
+}
+item {
+  name: "makarong"
+  id: 172
+}
+item {
+  name: "nacho"
+  id: 173
+}
+item {
+  name: "beoteokuki"
+  id: 174
+}
+item {
+  name: "pija"
+  id: 175
+}
+item {
+  name: "saengseon-hoe"
+  id: 176
+}
+item {
+  name: "yukhoe"
+  id: 177
+}
+item {
+  name: "muneosukhoe"
+  id: 178
+}
+item {
+  name: "gulhoe"
+  id: 179
+}
+item {
+  name: "beoseosbokk-eum"
+  id: 180
+}
+item {
+  name: "dalg-gaseumsalgu-i"
+  id: 181
+}
+item {
+  name: "dong-geulangttaeng"
+  id: 182
+}
+item {
+  name: "miyeogjulgibokk-eum"
+  id: 183
+}
+item {
+  name: "dotolimug"
+  id: 184
+}
+item {
+  name: "eomugbokk-eum"
+  id: 185
+}
+item {
+  name: "gimmal-i"
+  id: 186
+}
+item {
+  name: "goguma"
+  id: 187
+}
+item {
+  name: "haembeogeo"
+  id: 188
+}
+item {
+  name: "heugmibab"
+  id: 189
+}
+item {
+  name: "keulimpaseuta"
+  id: 190
+}
+item {
+  name: "oimuchim"
+  id: 191
+}
+item {
+  name: "patbingsu"
+  id: 192
+}
+item {
+  name: "sangchu"
+  id: 193
+}
+item {
+  name: "sigeumchimuchim"
+  id: 194
+}
+item {
+  name: "sogogimugug"
+  id: 195
+}
+item {
+  name: "suyug"
+  id: 196
+}
+item {
+  name: "ssamjang"
+  id: 197
+}
+item {
+  name: "gyelanhulai"
+  id: 198
+}
+item {
+  name: "hyeonmibab"
+  id: 199
+}
+item {
+  name: "sosejibuchim"
+  id: 200
+}

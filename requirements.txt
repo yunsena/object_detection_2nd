@@ -1,0 +1,7 @@
+numpy
+Pillow>=1.0
+Flask
+tensorflow-gpu
+six
+matplotlib
+opencv-python== 3.4.2.16
